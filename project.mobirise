@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Recommends.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1152,7 +1152,7 @@
               "color": "#efefef"
             },
             ".card-footer > div": {
-              "color": "#efefef"
+              "color": "#ffffff"
             }
           }
         }
