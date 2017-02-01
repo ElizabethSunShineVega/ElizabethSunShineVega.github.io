@@ -156,14 +156,14 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/esvsignature-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#",
