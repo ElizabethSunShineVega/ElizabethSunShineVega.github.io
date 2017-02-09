@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Artwork.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -465,10 +465,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.jpg",
-                "caption": "MDCPS Logo",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x2962.jpg",
+                "caption": "MAS Sights &amp; Sounds of the 60s",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -478,6 +478,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/esv-art-of-music-2000x2666-88-800x1066-51.jpg",
                 "image": "@PROJECT_PATH@/assets/images/esv-art-of-music-2000x2666-88.jpg",
                 "caption": "Art Of Music~<br>Poster Filter Panel",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x516-800x206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x516.jpg",
+                "caption": "MAS Banner",
                 "active": false
               },
               {
@@ -505,10 +515,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x516-800x206.jpg",
-                "image": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x516.jpg",
-                "caption": "MAS Banner",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.jpg",
+                "caption": "MDCPS Logo",
+                "active": false
               }
             ],
             "spacing": "1",
@@ -1034,6 +1044,56 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2015-06-19-00-2000x1588-800x635.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2015-06-19-00-2000x1588.jpg",
                 "caption": "My Beloved Dog, Brownie",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20150627-235758-2000x2633-800x1053.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20150627-235758-2000x2633.jpg",
+                "caption": "Five Nights at Freddy's: Foxy",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-06-24-19-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2015-06-24-19-2000x3555.jpg",
+                "caption": "Five Nights at Freddy's: Bonnie",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20150624-193336-2000x2592-800x1036.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20150624-193336-2000x2592.jpg",
+                "caption": "Five Nights at Freddy's: Freddy",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20150624-193528-2000x2609-800x1043.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20150624-193528-2000x2609.jpg",
+                "caption": "Five Nights at Freddy's: Chica<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/starry-night-sketch-2000x1421-800x568.jpg",
+                "image": "@PROJECT_PATH@/assets/images/starry-night-sketch-2000x1421.jpg",
+                "caption": "Artist Reproduction: Starry Night Sketch<br>",
                 "active": true
               }
             ],
