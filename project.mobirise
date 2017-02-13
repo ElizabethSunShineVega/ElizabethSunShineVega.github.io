@@ -205,7 +205,7 @@
             "paddingBottom": "3",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20160919-191920lblu-2000x1514.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160919-191920lolthisbetterbeit-2000x1514.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -213,7 +213,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "showTitle": false,
             "showText": true,
