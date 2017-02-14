@@ -550,8 +550,8 @@
           "_anchor": "features4-z",
           "_params": {
             "iconsBgColor": "#fff3c2",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -936,8 +936,8 @@
           "_anchor": "features4-10",
           "_params": {
             "iconsBgColor": "#fff3c2",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
