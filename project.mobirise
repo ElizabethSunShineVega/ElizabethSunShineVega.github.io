@@ -163,7 +163,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-2-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#",
