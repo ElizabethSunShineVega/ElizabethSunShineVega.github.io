@@ -1031,6 +1031,7 @@ h6,
 
 
 
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1108,7 +1109,8 @@ h6,
   color: #fff;
 }
 #msg-box8-1h .mbr-section-title {
-  color: #fdf4cb;
+  color: #000000;
+  font-family: 'Lora', serif;
 }
 #image2-1i DIV {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -1123,9 +1125,17 @@ h6,
 }
 #msg-box8-1b .lead P {
   text-align: left;
-  color: #fbe89b;
+  color: #000000;
   font-size: 17px;
   font-family: 'Lora', serif;
+}
+#msg-box8-1l .mbr-section-title,
+#msg-box8-1l p {
+  color: #fff;
+}
+#msg-box8-1j .mbr-section-title,
+#msg-box8-1j p {
+  color: #fff;
 }
 #content5-1c .mbr-section-title,
 #content5-1c p {
@@ -1133,14 +1143,21 @@ h6,
 }
 #content5-1c .mbr-section-title {
   font-family: 'Raleway', sans-serif;
-  color: #ffdb77;
+  color: #000000;
 }
 #content5-1c P {
   font-family: 'Lora', serif;
-  color: #fbe89b;
+  color: #000000;
 }
 #content5-1c DIV {
   color: #353535;
+}
+#features4-1k .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1k .iconbox {
+  background-color: #fff3c2;
+  border-color: #fff3c2;
 }
 #footer1-18 P {
   color: #000000;
