@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -66,8 +66,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#2d2816",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -2434,7 +2434,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#e4ddc2",
+            "bgColor": "#ede8d4",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2467,7 +2467,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#e4ddc2",
+            "bgColor": "#ede8d4",
             "showText": false
           },
           "media": {
@@ -2528,40 +2528,6 @@
           },
           "title": "",
           "text": "<p><i><b>&nbsp;&nbsp;</b>&nbsp;</i>&nbsp;For as long as I could remember, I’ve always been an artist. I’ve always had this wild imagination that takes me through leaps and bounds, this quirkiness and positivity everyone seems to love. It’s always been a part of me, of my life. However, my art is mostly pencil and paper, with some occasional colored pencil here and there –I just work better in pencil than color. As a child, I dreamed of becoming a veterinarian, working with animals and caring for them. That dream slowly faded as I began to notice how much more I could do with art. I created stories, characters, realms of different dimensions that clashed at night and continued into the day. It wasn’t until the eighth grade that I finally realized how much potential I had, working with digital media.</p><p><br></p><p>&nbsp; &nbsp; Miami Arts Studio, my school that was formerly known as Zelda Glazer Middle, was opening up a magnet program for middle school, while introducing a magnet-only high school population, gradually turning our regular middle school into a 6-12 Studio of the Arts. Already feeling at home in this school, I decided to apply and audition for the Digital Technical Production strand, as it appeared to be the closest thing to an art strand that there was at the school. I organized a portfolio of my best pieces and strolled confidently to the interview, and I was accepted into the MAS family.</p><p><br></p><p>&nbsp; &nbsp; My plans for my career in the future are quite simple: I will be working as an illustrator and storyboard artist for the Pixar Animation Studios, teaming up with famous producers and fellow animators to produce great animated films, and coming to work every day with a bright smile on my face, knowing that I worked extremely hard to get to where I am now. I'll be publishing stories of characters unheard of, characters unaware of their own potential, tragedies of their lives and how they go through the motions, comedies of how they shrug off their pains. I'll be embracing my potential while exposing theirs, through the arts of creation, writing and drawing. I know I can achieve this, as I can create my own stepping stones to get where I need to be.<br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1l",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ede7cc",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "",
-          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
