@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -1161,6 +1162,11 @@ h6,
 
 
 
+
+#msg-box8-1p .mbr-section-title,
+#msg-box8-1p p {
+  color: #fff;
+}
 #menu-1m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1237,9 +1243,18 @@ h6,
   color: #000000;
 }
 #msg-box1-1o H3 {
-  font-size: 36px;
+  font-size: 46px;
   color: #000000;
 }
 #msg-box1-1o H2 {
   color: #181818;
+  font-size: 23px;
+}
+#msg-box1-1o .btn {
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box8-1q .mbr-section-title,
+#msg-box8-1q p {
+  color: #fff;
 }
