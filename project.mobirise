@@ -2699,7 +2699,7 @@
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#000000"
             },
             "H2": {
