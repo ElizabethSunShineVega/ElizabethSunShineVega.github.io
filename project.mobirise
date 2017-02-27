@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 73,
+    "uniqCompNum": 74,
     "versionPublish": "3.11.1",
     "path": "file:///D:/Sophmore%20Year/Tech%20Production/Other%20Projects/Portfolio",
     "screenshot": "screenshot.png"
@@ -1303,12 +1303,12 @@
               },
               {
                 "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=wLgNXe7Vk3A",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-27-09-25-47.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/starry-night-sketch-2000x1421-800x568.jpg",
                 "image": "@PROJECT_PATH@/assets/images/starry-night-sketch-2000x1421.jpg",
-                "caption": "Artist Reproduction: Starry Night Sketch<br>",
+                "caption": "Timelapse: Quick Sketch of Webtoon Character",
                 "active": true
               }
             ],
@@ -2077,7 +2077,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#fff6d4",
+            "overlayColor": "#fff5d1",
             "showTitle": false,
             "showText": true,
             "showButton": false
@@ -2121,51 +2121,60 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#000000"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#000000"
-            },
-            "DIV": {
-              "color": "#353535"
-            }
-          },
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-1c",
+          "_name": "header4",
+          "_anchor": "header4-21",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/20161211-230112-1-2000x1442-1.jpg",
-            "bgColor": "#878787",
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": ""
+              "url": "https://www.youtube.com/embed/wLgNXe7Vk3A?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#fff6d4",
+            "overlayColor": "#fff5d1",
+            "contentAlign": "right",
             "showTitle": true,
-            "showCaption": true
+            "showText": true,
+            "showButtons": false
           },
           "title": "Goals~",
-          "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">~Grow to become a <i>successful illustrator</i> and work in <i>Pixar Animation Studios</i>, designing characters and creating storyboards for future productions, and writing books and stories as a hobby.</span><br></p><p>~Publish my <i>first novel</i>, starting my original series of fictional books, and become a <i>brilliant author,</i>&nbsp;illustrating my book covers and character art as a hobby.</p><p>~Community Service Project: Personalized comic books for kids. Children are asked questions about superpowers they'd like to have, how they'd look as a superhero, etc. I would design a comic book around them, with their powers and outfit and a short story, and send it to them.</p><p>~Polish my skills as a<i> henna artist</i> and possibly start my own business doing henna art for clients, and illustrate and write as hobbies.</p>"
+          "text": "<span style=\"font-style: normal;\">~Grow to become a successful illustrator and work in Pixar Animation Studios, designing characters and creating storyboards for future productions, and writing books and stories as a hobby.<br><br>~Publish my first novel, starting my original series of fictional books, and become a brilliant author, illustrating my book covers and character art as a hobby.<br><br>~Community Service Project: Personalized comic books for kids. Children are asked questions about superpowers they'd like to have, how they'd look as a superhero, etc. I would design a comic book around them, with their powers and outfit and a short story, and send it to them.<br><br>~Polish my skills as a henna artist and possibly start my own business doing henna art for clients, and illustrate and write as hobbies.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "20px",
+              "text-align": "right"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "48px"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "right"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "19px",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_styles": {
@@ -2189,7 +2198,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#e4ddc2",
+            "bgColor": "#fdf4cb",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"

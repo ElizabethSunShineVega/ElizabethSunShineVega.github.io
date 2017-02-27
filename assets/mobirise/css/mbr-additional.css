@@ -960,20 +960,25 @@ h6,
 #msg-box8-1j p {
   color: #fff;
 }
-#content5-1c .mbr-section-title,
-#content5-1c p {
-  color: #fff;
+#header4-21 .mbr-section-lead {
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
 }
-#content5-1c .mbr-section-title {
+#header4-21 .mbr-section-title SPAN {
+  color: #000000;
   font-family: 'Raleway', sans-serif;
-  color: #000000;
+  font-size: 48px;
 }
-#content5-1c P {
-  font-family: 'Lora', serif;
+#header4-21 .mbr-section-title {
+  font-size: 48px;
   color: #000000;
+  font-family: 'Raleway', sans-serif;
+  text-align: right;
 }
-#content5-1c DIV {
-  color: #353535;
+#header4-21 .mbr-section-lead SPAN {
+  font-size: 19px;
+  text-align: right;
 }
 #features4-1k .card-subtitle {
   color: #bcbcbc;
