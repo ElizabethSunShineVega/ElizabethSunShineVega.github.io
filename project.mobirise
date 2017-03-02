@@ -163,7 +163,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/this-thingy-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/esv-sunset-beach-intro-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
