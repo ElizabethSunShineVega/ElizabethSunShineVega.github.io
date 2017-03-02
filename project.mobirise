@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 74,
+    "uniqCompNum": 89,
     "versionPublish": "3.11.1",
     "path": "file:///D:/Sophmore%20Year/Tech%20Production/Other%20Projects/Portfolio",
     "screenshot": "screenshot.png"
@@ -38,45 +38,6 @@
         "order": 1
       },
       "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffe98e",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".mbr-section-lead": {
-              "color": "#fdf4cb"
-            }
-          },
-          "_anchor": "header1-8",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/beach-sunset-wallpaper-for-iphone-1-2000x1250.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#2d2816",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "Elizabeth SunShine Vega",
-          "text": "\"Being different is not bad.<br>It's called being <b><span style=\"font-style: normal;\">Extra</span>ordinary&nbsp;</b>for a reason.\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -141,8 +102,11 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
           "_name": "menu",
-          "_anchor": "menu-0",
+          "_anchor": "menu-1m",
           "_params": {
             "bgColor": "#353535",
             "fontSize": 0.75,
@@ -156,17 +120,17 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-3-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -177,7 +141,46 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SunShine</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">Resume</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffe98e",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#fdf4cb"
+            }
+          },
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/this-thingy-2000x1250.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "Elizabeth SunShine Vega",
+          "text": "\"Being different is not bad.<br>It's called being <b><span style=\"font-style: normal;\">Extra</span>ordinary&nbsp;</b>for a reason.\"",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_name": "footer1",
@@ -278,7 +281,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0",
+          "_anchor": "menu-1m",
           "_params": {
             "bgColor": "#353535",
             "fontSize": 0.75,
@@ -292,17 +295,17 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-3-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -313,7 +316,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SunShine</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -334,8 +337,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/e-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/e-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/e-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/e-1-2000x2000.png",
                 "caption": "My Logo",
                 "active": false
               },
@@ -344,10 +347,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x1500-99-800x600-38.jpg",
-                "image": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x1500-99.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x1500.jpg",
                 "caption": "Political Television",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -387,7 +390,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x2962.jpg",
                 "caption": "MAS Sights &amp; Sounds of the 60s",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -454,138 +457,98 @@
         },
         {
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
             },
-            ".iconbox": {
-              "background-color": "#fff3c2",
-              "border-color": "#fff3c2"
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-1x",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-27",
           "_params": {
-            "iconsBgColor": "#fff3c2",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff3c2",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Subscribe &amp; Follow!",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
             },
-            "bgVideoRadio": false,
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "form1-28",
+          "_params": {
+            "labelsColor": "#000000",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
+            "showTitle": true,
+            "showSubTitle": false
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "mail",
-              "family": "socicon",
-              "active": true,
-              "link": "Email.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
+          "title": "Contact",
+          "subtitle": "\"It takes a little ray of SunShine to make the darkness go away.\"",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for reaching out! :D"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "What's Your Name?*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email?*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone Number"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "What Would You Like to Tell Me?"
+              }
             }
           },
-          "title1": "Email",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "instagram",
-              "family": "socicon",
-              "active": true,
-              "link": "Instagram.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
-            }
-          },
-          "title2": "Instagram",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "youtube",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": true
-            }
-          },
-          "title3": "YouTube",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send :3</a>"
         },
         {
           "_tags": [
@@ -689,7 +652,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0",
+          "_anchor": "menu-1m",
           "_params": {
             "bgColor": "#353535",
             "fontSize": 0.75,
@@ -703,17 +666,17 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-3-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -724,7 +687,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SunShine</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -860,138 +823,98 @@
         },
         {
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
             },
-            ".iconbox": {
-              "background-color": "#fff3c2",
-              "border-color": "#fff3c2"
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-1y",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-29",
           "_params": {
-            "iconsBgColor": "#fff3c2",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff3c2",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Subscribe &amp; Follow!",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
             },
-            "bgVideoRadio": false,
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "form1-2a",
+          "_params": {
+            "labelsColor": "#000000",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
+            "showTitle": true,
+            "showSubTitle": false
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "mail",
-              "family": "socicon",
-              "active": true,
-              "link": "Email.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
+          "title": "Contact",
+          "subtitle": "\"It takes a little ray of SunShine to make the darkness go away.\"",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for reaching out! :D"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "What's Your Name?*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email?*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone Number"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "What Would You Like to Tell Me?"
+              }
             }
           },
-          "title1": "Email",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "instagram",
-              "family": "socicon",
-              "active": true,
-              "link": "Instagram.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
-            }
-          },
-          "title2": "Instagram",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "youtube",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": true
-            }
-          },
-          "title3": "YouTube",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send :3</a>"
         },
         {
           "_tags": [
@@ -1095,7 +1018,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0",
+          "_anchor": "menu-1m",
           "_params": {
             "bgColor": "#353535",
             "fontSize": 0.75,
@@ -1109,17 +1032,17 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-3-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1130,7 +1053,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SunShine</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -1146,8 +1069,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20161212-184539-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161212-184539-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161212-184539-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161212-184539-2000x2000.jpg",
                 "caption": "Anime ESV",
                 "active": false
               },
@@ -1166,8 +1089,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160919-1-2000x1514-800x605.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160919-1-2000x1514.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514-800x605.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514.jpg",
                 "caption": "Heads &amp; Tails: <i>Brothers~</i>",
                 "active": false
               },
@@ -1176,8 +1099,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/snapchat-2000x3555-800x1422.jpg",
-                "image": "@PROJECT_PATH@/assets/images/snapchat-2000x3555.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/snapchat-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/snapchat-2000x1125.jpg",
                 "caption": "Henna",
                 "active": false
               },
@@ -1246,9 +1169,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170118-111834-2000x1922-800x768.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170118-111834-2000x1922.jpg",
-                "caption": "Eye",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-06-19-00-2000x1588-800x635.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2015-06-19-00-2000x1588.jpg",
+                "caption": "My Beloved Dog, Brownie",
                 "active": false
               },
               {
@@ -1256,9 +1179,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2015-06-19-00-2000x1588-800x635.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2015-06-19-00-2000x1588.jpg",
-                "caption": "My Beloved Dog, Brownie",
+                "thumb": "@PROJECT_PATH@/assets/images/20170118-111834-2000x1922-800x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170118-111834-2000x1922.jpg",
+                "caption": "Eye",
                 "active": false
               },
               {
@@ -1305,7 +1228,7 @@
                 "tags": "Animated",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=wLgNXe7Vk3A",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-27-09-25-47.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-01-09-00-32.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/starry-night-sketch-2000x1421-800x568.jpg",
                 "image": "@PROJECT_PATH@/assets/images/starry-night-sketch-2000x1421.jpg",
                 "caption": "Timelapse: Quick Sketch of Webtoon Character",
@@ -1326,138 +1249,98 @@
         },
         {
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
             },
-            ".iconbox": {
-              "background-color": "#fff3c2",
-              "border-color": "#fff3c2"
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-1z",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2b",
           "_params": {
-            "iconsBgColor": "#fff3c2",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff3c2",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Subscribe &amp; Follow!",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
             },
-            "bgVideoRadio": false,
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "form1-2c",
+          "_params": {
+            "labelsColor": "#000000",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
+            "showTitle": true,
+            "showSubTitle": false
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "mail",
-              "family": "socicon",
-              "active": true,
-              "link": "Email.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
+          "title": "Contact",
+          "subtitle": "\"It takes a little ray of SunShine to make the darkness go away.\"",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for reaching out! :D"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "What's Your Name?*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email?*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone Number"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "What Would You Like to Tell Me?"
+              }
             }
           },
-          "title1": "Email",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "instagram",
-              "family": "socicon",
-              "active": true,
-              "link": "Instagram.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
-            }
-          },
-          "title2": "Instagram",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "youtube",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": true
-            }
-          },
-          "title3": "YouTube",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send :3</a>"
         },
         {
           "_tags": [
@@ -1561,7 +1444,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0",
+          "_anchor": "menu-1m",
           "_params": {
             "bgColor": "#353535",
             "fontSize": 0.75,
@@ -1575,17 +1458,17 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-3-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1596,7 +1479,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SunShine</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -1696,138 +1579,98 @@
         },
         {
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
             },
-            ".iconbox": {
-              "background-color": "#fff3c2",
-              "border-color": "#fff3c2"
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-20",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2d",
           "_params": {
-            "iconsBgColor": "#fff3c2",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff3c2",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Subscribe &amp; Follow!",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
             },
-            "bgVideoRadio": false,
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "form1-2e",
+          "_params": {
+            "labelsColor": "#000000",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
+            "showTitle": true,
+            "showSubTitle": false
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "mail",
-              "family": "socicon",
-              "active": true,
-              "link": "Email.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
+          "title": "Contact",
+          "subtitle": "\"It takes a little ray of SunShine to make the darkness go away.\"",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for reaching out! :D"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "What's Your Name?*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email?*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone Number"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "What Would You Like to Tell Me?"
+              }
             }
           },
-          "title1": "Email",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "instagram",
-              "family": "socicon",
-              "active": true,
-              "link": "Instagram.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
-            }
-          },
-          "title2": "Instagram",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "youtube",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": true
-            }
-          },
-          "title3": "YouTube",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send :3</a>"
         },
         {
           "_tags": [
@@ -1931,7 +1774,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0",
+          "_anchor": "menu-1m",
           "_params": {
             "bgColor": "#353535",
             "fontSize": 0.75,
@@ -1945,17 +1788,17 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-3-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1966,7 +1809,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SunShine</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">Resume</a></li>"
         },
         {
           "_styles": {
@@ -1983,14 +1826,14 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1h",
+          "_anchor": "msg-box8-26",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": "1",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ede8d4",
+            "bgColor": "#fff3c2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2008,39 +1851,24 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "image2-1i",
+          "_name": "header3",
+          "_anchor": "header3-2g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ede8d4",
-            "showText": false
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#f3f2e0",
+            "showMeta": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20160709-1400x1137.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "~ESV SunShine~"
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_styles": {
@@ -2064,11 +1892,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1b",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "3",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160709-2000x1624.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2076,15 +1904,35 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#fff5d1",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff",
             "showTitle": false,
             "showText": true,
             "showButton": false
           },
           "title": "",
-          "text": "<p><i><b>&nbsp;&nbsp;</b>&nbsp;</i>&nbsp;For as long as I could remember, I’ve always been an artist. I’ve always had this wild imagination that takes me through leaps and bounds, this quirkiness and positivity everyone seems to love. It’s always been a part of me, of my life. However, my art is mostly pencil and paper, with some occasional colored pencil here and there –I just work better in pencil than color. As a child, I dreamed of becoming a veterinarian, working with animals and caring for them. That dream slowly faded as I began to notice how much more I could do with art. I created stories, characters, realms of different dimensions that clashed at night and continued into the day. It wasn’t until the eighth grade that I finally realized how much potential I had, working with digital media.</p><p><br></p><p>&nbsp; &nbsp; Miami Arts Studio, my school that was formerly known as Zelda Glazer Middle, was opening up a magnet program for middle school, while introducing a magnet-only high school population, gradually turning our regular middle school into a 6-12 Studio of the Arts. Already feeling at home in this school, I decided to apply and audition for the Digital Technical Production strand, as it appeared to be the closest thing to an art strand that there was at the school. I organized a portfolio of my best pieces and strolled confidently to the interview, and I was accepted into the MAS family.</p><p><br></p><p>&nbsp; &nbsp; My plans for my career in the future are quite simple: I will be working as an illustrator and storyboard artist for the Pixar Animation Studios, teaming up with famous producers and fellow animators to produce great animated films, and coming to work every day with a bright smile on my face, knowing that I worked extremely hard to get to where I am now. I'll be publishing stories of characters unheard of, characters unaware of their own potential, tragedies of their lives and how they go through the motions, comedies of how they shrug off their pains. I'll be embracing my potential while exposing theirs, through the arts of creation, writing and drawing. I know I can achieve this, as I can create my own stepping stones to get where I need to be.<br></p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">For as long as I could remember, I’ve always been an artist. I’ve always had this wild imagination that takes me through leaps and bounds, this quirkiness and positivity everyone seems to love. It’s always been a part of me, of my life. However, my art is mostly pencil and paper, with some occasional colored pencil here and there –I just work better in pencil than color. As a child, I dreamed of becoming a veterinarian, working with animals and caring for them. That dream slowly faded as I began to notice how much more I could do with art. I created stories, characters, realms of different dimensions that clashed at night and continued into the day. It wasn’t until the eighth grade that I finally realized how much potential I had, working with digital media.</span></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Miami Arts Studio, my school that was formerly known as Zelda Glazer Middle, was opening up a magnet program for middle school, while introducing a magnet-only high school population, gradually turning our regular middle school into a 6-12 Studio of the Arts. Already feeling at home in this school, I decided to apply and audition for the Digital Technical Production strand, as it appeared to be the closest thing to an art strand that there was at the school. I organized a portfolio of my best pieces and strolled confidently to the interview, and I was accepted into the MAS family.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;My plans for my career in the future are quite simple: I will be working as an illustrator and storyboard artist for the Pixar Animation Studios, teaming up with famous producers and fellow animators to produce great animated films, and coming to work every day with a bright smile on my face, knowing that I worked extremely hard to get to where I am now. I'll be publishing stories of characters unheard of, characters unaware of their own potential, tragedies of their lives and how they go through the motions, comedies of how they shrug off their pains. I'll be embracing my potential while exposing theirs, through the arts of creation, writing and drawing. I know I can achieve this, as I can create my own stepping stones to get where I need to be.<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-24",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#cccccc",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_styles": {
@@ -2122,352 +1970,95 @@
         },
         {
           "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "19px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-21",
+          "_name": "header5",
+          "_anchor": "header5-25",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "parallax": false,
+            "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442.jpg",
+            "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/wLgNXe7Vk3A?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#fff5d1",
-            "contentAlign": "right",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#efefef",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "Goals~",
-          "text": "<span style=\"font-style: normal;\">~Grow to become a successful illustrator and work in Pixar Animation Studios, designing characters and creating storyboards for future productions, and writing books and stories as a hobby.<br><br>~Publish my first novel, starting my original series of fictional books, and become a brilliant author, illustrating my book covers and character art as a hobby.<br><br>~Community Service Project: Personalized comic books for kids. Children are asked questions about superpowers they'd like to have, how they'd look as a superhero, etc. I would design a comic book around them, with their powers and outfit and a short story, and send it to them.<br><br>~Polish my skills as a henna artist and possibly start my own business doing henna art for clients, and illustrate and write as hobbies.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-size": "20px",
-              "text-align": "right"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "48px"
-            },
-            ".mbr-section-title": {
-              "font-size": "48px",
-              "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "right"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-size": "19px",
-              "text-align": "right"
-            }
-          }
+          "text": "~Grow to become a successful illustrator and work in Pixar Animation Studios, designing characters and creating storyboards for future productions, and writing books and stories as a hobby.<br><br>~Publish my first novel, starting my original series of fictional books, and become a brilliant author, illustrating my book covers and character art as a hobby.<br><br>~Community Service Project: Personalized comic books for kids. Children are asked questions about superpowers they'd like to have, how they'd look as a superhero, etc. I would design a comic book around them, with their powers and outfit and a short story, and send it to them.<br><br>~Polish my skills as a henna artist and possibly start my own business doing henna art for clients, and illustrate and write as hobbies.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#fff3c2",
-              "border-color": "#fff3c2"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-1k",
+          "_name": "header3",
+          "_anchor": "header3-2f",
           "_params": {
-            "iconsBgColor": "#fff3c2",
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ebe5cb",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-23",
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff3c2",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
+            "overlayColor": "#222"
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "mail",
-              "family": "socicon",
-              "active": true,
-              "link": "Email.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
-            }
-          },
-          "title1": "Email",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "instagram",
-              "family": "socicon",
-              "active": true,
-              "link": "Instagram.html",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
-            }
-          },
-          "title2": "Instagram",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "youtube",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw",
-              "size": 0,
-              "color": "#fac51c",
-              "newWindow": true
-            }
-          },
-          "title3": "YouTube",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "footer1-18",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 ESV SunShine Studio"
-        }
-      ]
-    },
-    "Email.html": {
-      "settings": {
-        "title": "Contact Me via Email!",
-        "meta_descr": "email",
-        "order": 8
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "footer1-r",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 ESV SunShine Studio"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1c1c"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2d2d2d!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#353535"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".btn": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "bgColor": "#353535",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-3-128x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "#",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SunShine</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">RESUME</a></li>"
+          "text": "Subscribe &amp; Follow!",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
@@ -2476,7 +2067,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
             },
             ".btn": {
               "font-family": "'Lora', serif",
@@ -2487,10 +2078,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
-          "_anchor": "form1-s",
+          "_anchor": "form1-22",
           "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
+            "labelsColor": "#000000",
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -2503,7 +2094,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Contact~",
+          "title": "Contact",
           "subtitle": "\"It takes a little ray of SunShine to make the darkness go away.\"",
           "form": {
             "action": "evega@miamiartsstudio.com",
@@ -2533,6 +2124,28 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send :3</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-18",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fdf4cb",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 ESV SunShine Studio"
         }
       ]
     },
@@ -2542,40 +2155,6 @@
         "meta_descr": "Instagrahamcrackers"
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1p",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#fdf4cb",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2658,17 +2237,17 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/e-3-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/e-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2679,7 +2258,41 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SunShine</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Artwork.html\">Artwork</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Digital Art<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobirise</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 1.pdf\" target=\"_blank\">Topic 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 2.pdf\" target=\"_blank\">Topic 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 3.pdf\" target=\"_blank\">Topic 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 4.pdf\" target=\"_blank\">Topic 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 5.pdf\" target=\"_blank\">Topic 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Topic 6</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ElizabethSunShineVega.github.io/ESV Certification.pdf\" target=\"_blank\">Adobe Illustrator CC 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Computing Fundamentals 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Living Online 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop 2017<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recommends.html\">Recommendations</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\">Resume</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#fdf4cb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_name": "footer1",
