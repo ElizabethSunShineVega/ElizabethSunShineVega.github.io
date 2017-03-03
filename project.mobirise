@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 89,
+    "uniqCompNum": 107,
     "versionPublish": "3.11.1",
     "path": "file:///D:/Sophmore%20Year/Tech%20Production/Other%20Projects/Portfolio",
     "screenshot": "screenshot.png"
@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1c1c"
+              "background": "#040404"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2d2d2d!important"
+              "background": "#161616!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#353535"
+              "background": "#1e1e1e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -108,7 +108,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#353535",
+            "bgColor": "#1e1e1e",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -163,7 +163,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/esv-sunset-beach-intro-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/esv-sunset-beach-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -209,7 +209,7 @@
     "Illustrator.html": {
       "settings": {
         "order": 3,
-        "title": "ESV Adobe Illustrator Work",
+        "title": "Adobe Illustrator Work",
         "meta_descr": "I'm an Illustrator junkie xD"
       },
       "components": [
@@ -241,13 +241,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1c1c"
+              "background": "#040404"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2d2d2d!important"
+              "background": "#161616!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#353535"
+              "background": "#1e1e1e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -283,7 +283,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#353535",
+            "bgColor": "#1e1e1e",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -472,7 +472,7 @@
           "_anchor": "social-buttons2-27",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -484,6 +484,50 @@
           },
           "text": "Subscribe &amp; Follow!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to my Newsletter&nbsp;",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thank you! :D"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "What's your email?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -507,7 +551,7 @@
           "_params": {
             "labelsColor": "#000000",
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -580,7 +624,7 @@
     "Photoshop.html": {
       "settings": {
         "order": 4,
-        "title": "ESV Adobe Photoshop Work",
+        "title": "Adobe Photoshop Work",
         "meta_descr": "Working on Photoshop skills~"
       },
       "components": [
@@ -612,13 +656,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1c1c"
+              "background": "#040404"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2d2d2d!important"
+              "background": "#161616!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#353535"
+              "background": "#1e1e1e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -654,7 +698,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#353535",
+            "bgColor": "#1e1e1e",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -838,7 +882,7 @@
           "_anchor": "social-buttons2-29",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -850,6 +894,50 @@
           },
           "text": "Subscribe &amp; Follow!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to my Newsletter&nbsp;",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thank you! :D"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "What's your email?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -873,7 +961,7 @@
           "_params": {
             "labelsColor": "#000000",
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -946,7 +1034,7 @@
     "Artwork.html": {
       "settings": {
         "order": 5,
-        "title": "ESV Artwork",
+        "title": "Artwork",
         "meta_descr": "Personal projects I engage in"
       },
       "components": [
@@ -978,13 +1066,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1c1c"
+              "background": "#040404"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2d2d2d!important"
+              "background": "#161616!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#353535"
+              "background": "#1e1e1e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1020,7 +1108,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#353535",
+            "bgColor": "#1e1e1e",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -1264,7 +1352,7 @@
           "_anchor": "social-buttons2-2b",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -1276,6 +1364,50 @@
           },
           "text": "Subscribe &amp; Follow!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to my Newsletter&nbsp;",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thank you! :D"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "What's your email?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -1299,7 +1431,7 @@
           "_params": {
             "labelsColor": "#000000",
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1372,7 +1504,7 @@
     "Recommends.html": {
       "settings": {
         "order": 6,
-        "title": "ESV Recommendations",
+        "title": "Recommendations",
         "meta_descr": "People that recommend me"
       },
       "components": [
@@ -1404,13 +1536,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1c1c"
+              "background": "#040404"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2d2d2d!important"
+              "background": "#161616!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#353535"
+              "background": "#1e1e1e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1446,7 +1578,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#353535",
+            "bgColor": "#1e1e1e",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -1594,7 +1726,7 @@
           "_anchor": "social-buttons2-2d",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -1606,6 +1738,50 @@
           },
           "text": "Subscribe &amp; Follow!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to my Newsletter&nbsp;",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thank you! :D"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "What's your email?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -1629,7 +1805,7 @@
           "_params": {
             "labelsColor": "#000000",
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1701,7 +1877,7 @@
     },
     "Introduction.html": {
       "settings": {
-        "title": "ESV Intro",
+        "title": "Introduction",
         "meta_descr": "Get to know me a little :3",
         "order": 2
       },
@@ -1734,13 +1910,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1c1c"
+              "background": "#040404"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2d2d2d!important"
+              "background": "#161616!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#353535"
+              "background": "#1e1e1e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1776,7 +1952,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#353535",
+            "bgColor": "#1e1e1e",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -1860,11 +2036,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2g",
+          "_anchor": "header3-2y",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#f3f2e0",
+            "bgColor": "#fff9de",
             "showMeta": false
           },
           "title": "",
@@ -1892,8 +2068,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1b",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20160709-2000x1205.jpg",
@@ -2007,7 +2183,7 @@
             "showButtons": false
           },
           "title": "Goals~",
-          "text": "~Grow to become a successful illustrator and work in Pixar Animation Studios, designing characters and creating storyboards for future productions, and writing books and stories as a hobby.<br><br>~Publish my first novel, starting my original series of fictional books, and become a brilliant author, illustrating my book covers and character art as a hobby.<br><br>~Community Service Project: Personalized comic books for kids. Children are asked questions about superpowers they'd like to have, how they'd look as a superhero, etc. I would design a comic book around them, with their powers and outfit and a short story, and send it to them.<br><br>~Polish my skills as a henna artist and possibly start my own business doing henna art for clients, and illustrate and write as hobbies.<br>",
+          "text": "~Grow to become a successful illustrator and work in Pixar Animation Studios, designing characters and creating storyboards for future productions, and writing books and stories as a hobby.<br><br>~Publish my first novel, starting my original series of fictional books, and become a brilliant author, illustrating my book covers and character art as a hobby.<br><br>~Community Service Project: Personalized comic books for kids.<br><br>~Polish my skills as a henna artist and possibly start my own business doing henna art for clients, and illustrate and write as hobbies.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -2047,7 +2223,7 @@
           "_anchor": "social-buttons2-23",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -2059,6 +2235,50 @@
           },
           "text": "Subscribe &amp; Follow!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff3c2",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to my Newsletter&nbsp;",
+          "form": {
+            "action": "evega@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thank you! :D"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "What's your email?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -2082,7 +2302,7 @@
           "_params": {
             "labelsColor": "#000000",
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2094,7 +2314,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Contact",
+          "title": "Contact Me!",
           "subtitle": "\"It takes a little ray of SunShine to make the darkness go away.\"",
           "form": {
             "action": "evega@miamiartsstudio.com",
@@ -2151,7 +2371,7 @@
     },
     "Instagram.html": {
       "settings": {
-        "title": "Follow my art account on Instagram!",
+        "title": "Instagram Link",
         "meta_descr": "Instagrahamcrackers"
       },
       "components": [
@@ -2183,13 +2403,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1c1c"
+              "background": "#040404"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2d2d2d!important"
+              "background": "#161616!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#353535"
+              "background": "#1e1e1e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2225,7 +2445,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#353535",
+            "bgColor": "#1e1e1e",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
