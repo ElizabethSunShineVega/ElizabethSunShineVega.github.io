@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -494,6 +495,17 @@ h6,
 }
 #header1-8 .mbr-section-lead {
   color: #fdf4cb;
+}
+#header3-30 .mbr-section-title,
+#header3-30 .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons2-2z .mbr-section-title,
+#social-buttons2-2z .btn-social {
+  color: #232323;
+}
+#social-buttons2-2z .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
 }
 #footer1-2 P {
   color: #000000;
