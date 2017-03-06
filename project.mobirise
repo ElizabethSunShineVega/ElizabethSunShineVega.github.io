@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 109,
+    "uniqCompNum": 110,
     "versionPublish": "3.11.1",
     "path": "file:///D:/Sophmore%20Year/Tech%20Production/Other%20Projects/Portfolio",
     "screenshot": "screenshot.png"
@@ -201,6 +201,89 @@
           },
           "title": "",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929-800x771.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514-800x605.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170123-174100-2000x2892-800x1156.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x2892.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/red-phoenix-emblem-2000x1010-800x404.jpg",
+                "image": "@PROJECT_PATH@/assets/images/red-phoenix-emblem-2000x1010.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#fff3c2",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-31",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -1218,7 +1301,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x25570.jpg",
                 "caption": "Anime Portrait: ESV",
                 "active": false
               },
@@ -1228,7 +1311,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514-800x605.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x15141.jpg",
                 "caption": "Heads &amp; Tails: <i>Brothers~</i>",
                 "active": false
               },
@@ -1248,7 +1331,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170123-174100-2000x2892-800x1156.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x2892.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x28922.jpg",
                 "caption": "Heads &amp; Tails: <i>????</i>",
                 "active": false
               },
@@ -1268,7 +1351,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x14423.jpg",
                 "caption": "Wild SunShine (Wolf of Art)",
                 "active": false
               },
@@ -1288,7 +1371,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929-800x771.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x19294.jpg",
                 "caption": "Portrait: <i>Sammy</i>",
                 "active": false
               },
