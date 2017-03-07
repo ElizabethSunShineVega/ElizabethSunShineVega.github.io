@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 110,
+    "uniqCompNum": 111,
     "versionPublish": "3.11.1",
     "path": "file:///D:/Sophmore%20Year/Tech%20Production/Other%20Projects/Portfolio",
     "screenshot": "screenshot.png"
@@ -196,7 +196,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#cec6a6",
+            "bgColor": "#43a2da",
             "showMeta": false
           },
           "title": "",
@@ -276,7 +276,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#fff3c2",
+            "bgColor": "#80cfff",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -284,6 +284,26 @@
           "_anchor": "gallery2-31",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-32",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#bdfff5",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_styles": {
