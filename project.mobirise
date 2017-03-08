@@ -163,7 +163,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/esv-sunset-beach-intro-revised-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/esv%20sunset%20beach%20intro%20revised-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -196,7 +196,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#2969b0",
+            "bgColor": "#4772a1",
             "showMeta": false
           },
           "title": "",
@@ -276,7 +276,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#000c21",
+            "bgColor": "#15284b",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -284,26 +284,6 @@
           "_anchor": "gallery2-31",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-32",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#5d937b",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_styles": {
@@ -637,50 +617,6 @@
           },
           "text": "Subscribe &amp; Follow!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-2i",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff3c2",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubTitle": true
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to my Newsletter&nbsp;",
-          "form": {
-            "action": "evega@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thank you! :D"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "What's your email?"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -1049,50 +985,6 @@
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-2j",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff3c2",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubTitle": true
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to my Newsletter&nbsp;",
-          "form": {
-            "action": "evega@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thank you! :D"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "What's your email?"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1321,7 +1213,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x25575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x255710.jpg",
                 "caption": "Anime Portrait: ESV",
                 "active": false
               },
@@ -1331,7 +1223,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514-800x605.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x15146.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x151411.jpg",
                 "caption": "Heads &amp; Tails: <i>Brothers~</i>",
                 "active": false
               },
@@ -1351,7 +1243,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170123-174100-2000x2892-800x1156.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x28927.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x289212.jpg",
                 "caption": "Heads &amp; Tails: <i>????</i>",
                 "active": false
               },
@@ -1371,7 +1263,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x14428.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x144213.jpg",
                 "caption": "Wild SunShine (Wolf of Art)",
                 "active": false
               },
@@ -1391,7 +1283,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929-800x771.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x19299.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x192914.jpg",
                 "caption": "Portrait: <i>Sammy</i>",
                 "active": false
               },
@@ -1517,50 +1409,6 @@
           },
           "text": "Subscribe &amp; Follow!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-2k",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff3c2",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubTitle": true
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to my Newsletter&nbsp;",
-          "form": {
-            "action": "evega@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thank you! :D"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "What's your email?"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -1893,50 +1741,6 @@
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-2l",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff3c2",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubTitle": true
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to my Newsletter&nbsp;",
-          "form": {
-            "action": "evega@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thank you! :D"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "What's your email?"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2225,7 +2029,7 @@
             "paddingBottom": "4",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20160709-2000x1205.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_20160709-2000x1205.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2320,7 +2124,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wild-edit-2000x1442.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wild%20edit-2000x1442.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2388,50 +2192,6 @@
           },
           "text": "Subscribe &amp; Follow!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCc9S6Z12uZHVJ1BUSAxLOzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/phoenixdragon_sunshine1222/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-2h",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff3c2",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubTitle": true
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to my Newsletter&nbsp;",
-          "form": {
-            "action": "evega@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thank you! :D"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "What's your email?"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
