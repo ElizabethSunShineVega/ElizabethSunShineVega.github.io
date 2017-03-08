@@ -196,7 +196,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#43a2da",
+            "bgColor": "#2969b0",
             "showMeta": false
           },
           "title": "",
@@ -276,7 +276,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#80cfff",
+            "bgColor": "#000c21",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -299,7 +299,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#bdfff5",
+            "bgColor": "#5d937b",
             "showMeta": false
           },
           "title": "",
@@ -1321,7 +1321,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x25570.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x25575.jpg",
                 "caption": "Anime Portrait: ESV",
                 "active": false
               },
@@ -1331,7 +1331,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514-800x605.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x15141.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x15146.jpg",
                 "caption": "Heads &amp; Tails: <i>Brothers~</i>",
                 "active": false
               },
@@ -1351,7 +1351,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170123-174100-2000x2892-800x1156.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x28922.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x28927.jpg",
                 "caption": "Heads &amp; Tails: <i>????</i>",
                 "active": false
               },
@@ -1371,7 +1371,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x14423.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x14428.jpg",
                 "caption": "Wild SunShine (Wolf of Art)",
                 "active": false
               },
@@ -1391,7 +1391,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929-800x771.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x19294.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x19299.jpg",
                 "caption": "Portrait: <i>Sammy</i>",
                 "active": false
               },
