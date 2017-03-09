@@ -163,7 +163,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/esv%20sunset%20beach%20intro%20revised-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/esv-sunset-beach-intro-revised-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -186,6 +186,17 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "17px"
+            },
+            "SPAN": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -195,12 +206,12 @@
           "_anchor": "header3-30",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#4772a1",
-            "showMeta": false
+            "paddingBottom": "1",
+            "bgColor": "#3d8eb9",
+            "showMeta": true
           },
           "title": "",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": "<span style=\"font-style: normal;\">\"Being Different is not bad. It's called being Extraordinary for a reason.\"</span>"
         },
         {
           "_inherit": "gallery1",
@@ -276,7 +287,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#15284b",
+            "bgColor": "#2969b0",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -292,7 +303,8 @@
             },
             ".mbr-section-title": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -306,7 +318,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#fff3c2",
+            "bgColor": "#83bfdf",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -1213,7 +1225,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x255710.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x25575.jpg",
                 "caption": "Anime Portrait: ESV",
                 "active": false
               },
@@ -1223,7 +1235,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514-800x605.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x151411.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x15146.jpg",
                 "caption": "Heads &amp; Tails: <i>Brothers~</i>",
                 "active": false
               },
@@ -1243,7 +1255,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170123-174100-2000x2892-800x1156.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x289212.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x28927.jpg",
                 "caption": "Heads &amp; Tails: <i>????</i>",
                 "active": false
               },
@@ -1263,7 +1275,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x144213.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x14428.jpg",
                 "caption": "Wild SunShine (Wolf of Art)",
                 "active": false
               },
@@ -1283,7 +1295,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929-800x771.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x192914.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x19299.jpg",
                 "caption": "Portrait: <i>Sammy</i>",
                 "active": false
               },
@@ -2029,7 +2041,7 @@
             "paddingBottom": "4",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img_20160709-2000x1205.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160709-2000x1205.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2044,7 +2056,7 @@
             "showButton": false
           },
           "title": "",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">For as long as I could remember, I’ve always been an artist. I’ve always had this wild imagination that takes me through leaps and bounds, this quirkiness and positivity everyone seems to love. It’s always been a part of me, of my life. However, my art is mostly pencil and paper, with some occasional colored pencil here and there –I just work better in pencil than color. As a child, I dreamed of becoming a veterinarian, working with animals and caring for them. That dream slowly faded as I began to notice how much more I could do with art. I created stories, characters, realms of different dimensions that clashed at night and continued into the day. It wasn’t until the eighth grade that I finally realized how much potential I had, working with digital media.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Miami Arts Studio, my school that was formerly known as Zelda Glazer Middle, was opening up a magnet program for middle school, while introducing a magnet-only high school population, gradually turning our regular middle school into a 6-12 Studio of the Arts. Already feeling at home in this school, I decided to apply and audition for the Digital Technical Production strand, as it appeared to be the closest thing to an art strand that there was at the school. I organized a portfolio of my best pieces and strolled confidently to the interview, and I was accepted into the MAS family.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;My plans for my career in the future are quite simple: I will be working as an illustrator and storyboard artist for the Pixar Animation Studios, teaming up with famous producers and fellow animators to produce great animated films, and coming to work every day with a bright smile on my face, knowing that I worked extremely hard to get to where I am now. I'll be publishing stories of characters unheard of, characters unaware of their own potential, tragedies of their lives and how they go through the motions, comedies of how they shrug off their pains. I'll be embracing my potential while exposing theirs, through the arts of creation, writing and drawing. I know I can achieve this, as I can create my own stepping stones to get where I need to be.<br></p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">For as long as I could remember, I’ve always been an artist. I’ve always had this wild imagination that takes me through leaps and bounds, this quirkiness and positivity everyone seems to love. It’s always been a part of me, of my life. However, my art is mostly pencil and paper, with some occasional colored pencil here and there –I just work better in pencil than color. As a child, I dreamed of becoming a veterinarian, working with animals and caring for them. That dream slowly faded as I began to notice how much more I could do with art. I created stories, characters, realms of different dimensions that clashed at night and continued into the day. It wasn’t until the eighth grade that I finally realized how much potential I had, working with digital media.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Miami Arts Studio, my school that was formerly known as Zelda Glazer Middle, was opening up a magnet program for middle school, while introducing a magnet-only high school population, gradually turning our regular middle school into a 6-12 Studio of the Arts. Already feeling at home in this school, I decided to apply and audition for the Digital Technical Production strand, as it appeared to be the closest thing to an art strand that there was at the school. I organized a portfolio of my best pieces and strolled confidently to the interview, and I was accepted into the MAS family.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;My plans for my career in the future are quite simple: I will be working as an illustrator and writer, publishing stories of characters unheard of, characters unaware of their own potential, tragedies of their lives and how they go through the motions, comedies of how they shrug off their pains. I'll be embracing my potential while exposing theirs, through the arts of creation, writing and drawing. I know I can achieve this, as I can create my own stepping stones to get where I need to be.<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2124,7 +2136,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wild%20edit-2000x1442.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wild-edit-2000x1442.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
