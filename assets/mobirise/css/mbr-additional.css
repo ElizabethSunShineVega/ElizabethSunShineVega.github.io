@@ -513,6 +513,10 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 20px;
 }
+#msg-box8-3e .mbr-section-title,
+#msg-box8-3e p {
+  color: #fff;
+}
 #social-buttons2-2z .mbr-section-title,
 #social-buttons2-2z .btn-social {
   color: #232323;

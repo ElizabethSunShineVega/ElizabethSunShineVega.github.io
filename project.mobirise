@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Premiere.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 122,
+    "uniqCompNum": 123,
     "versionPublish": "3.11.1",
     "path": "file:///D:/Sophmore%20Year/Tech%20Production/Other%20Projects/Portfolio",
     "screenshot": "screenshot.png"
@@ -173,7 +173,7 @@
             "overlay": false,
             "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
-            "contentAlign": "center",
+            "contentAlign": "right",
             "showTitle": false,
             "showText": false,
             "showButtons": false
@@ -212,6 +212,40 @@
           },
           "title": "",
           "meta": "<span style=\"font-style: normal;\">\"Being Different is not bad. It's called being Extraordinary for a reason.\"</span>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/starry-night-repro-9-final-esv-2000x1428.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#00376b",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "Film Portfolio",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=ZIoOTz1inwA&amp;t=21s\" data-toolbar=\"-mbrBtnMove\">Watch</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1235,7 +1269,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x25575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x25570.jpg",
                 "caption": "Anime Portrait: ESV",
                 "active": false
               },
@@ -1245,7 +1279,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160919-2000x1514-800x605.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x15146.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x15141.jpg",
                 "caption": "Heads &amp; Tails: <i>Brothers~</i>",
                 "active": false
               },
@@ -1265,7 +1299,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170123-174100-2000x2892-800x1156.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x28927.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170123-174100-2000x28922.jpg",
                 "caption": "Heads &amp; Tails: <i>????</i>",
                 "active": false
               },
@@ -1285,7 +1319,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x14428.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x14423.jpg",
                 "caption": "Wild SunShine (Wolf of Art)",
                 "active": false
               },
@@ -1305,7 +1339,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929-800x771.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x19299.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x19294.jpg",
                 "caption": "Portrait: <i>Sammy</i>",
                 "active": false
               },
@@ -2691,6 +2725,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "msg-box4-3d",
           "_params": {
             "imageSize": 50,
@@ -2733,12 +2772,7 @@
           },
           "title": "Film Portfolio<br>Rough Draft",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
