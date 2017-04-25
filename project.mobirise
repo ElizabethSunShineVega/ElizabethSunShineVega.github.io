@@ -152,7 +152,8 @@
             ".mbr-section-title": {
               "color": "#ffe98e",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "60px"
             },
             ".mbr-section-lead": {
               "color": "#fdf4cb"
@@ -163,22 +164,22 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/esv-sunset-beach-intro-revised-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1036.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#ffffff",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#2e64a9",
             "contentAlign": "right",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": false
           },
-          "title": "Elizabeth SunShine Vega",
+          "title": "~Elizabeth SunShine Vega",
           "text": "\"Being different is not bad.<br>It's called being <b><span style=\"font-style: normal;\">Extra</span>ordinary&nbsp;</b>for a reason.\"",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -196,7 +197,7 @@
             "SPAN": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "20px"
+              "font-size": "22px"
             }
           },
           "_tags": [
@@ -207,7 +208,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#3d8eb9",
+            "bgColor": "#1c5594",
             "showMeta": true
           },
           "title": "",
@@ -262,18 +263,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929-800x771.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/helen-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/helen-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -302,6 +293,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442.jpg",
                 "caption": "Type caption here",
@@ -321,7 +322,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#2969b0",
+            "bgColor": "#165fb1",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -352,7 +353,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#83bfdf",
+            "bgColor": "#4794e9",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -529,7 +530,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/elizabeth-s-2000x1500.jpg",
                 "caption": "Political Television",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -620,6 +621,26 @@
                 "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.jpg",
                 "caption": "MDCPS Logo",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mini-mave-black-back-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mini-mave-black-back-2000x2000.jpg",
+                "caption": "Mini Mavericks Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/helen-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/helen-2000x2000.png",
+                "caption": "Helen Pye",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -1339,7 +1360,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929-800x771.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x19294.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929.jpg",
                 "caption": "Portrait: <i>Sammy</i>",
                 "active": false
               },
@@ -1421,6 +1442,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/starry-night-sketch-2000x1421-800x568.jpg",
                 "image": "@PROJECT_PATH@/assets/images/starry-night-sketch-2000x1421.jpg",
                 "caption": "Timelapse: Quick Sketch of Webtoon Character",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/helenxnova-2000x2445-800x978.jpg",
+                "image": "@PROJECT_PATH@/assets/images/helenxnova-2000x2445.jpg",
+                "caption": "Helen and Nova Wedding Dance",
                 "active": true
               }
             ],
@@ -1728,37 +1759,23 @@
               },
               "authorName": "Rachel C. Mongiove",
               "authorBio": "English 1 Teacher"
-            },
-            {
-              "text": "<p>“Fantastic.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Papaya Pate",
-              "authorBio": "Lit Digital Tech Teacher XD"
             }
           ],
           "_anchor": "testimonials1-m",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": "4",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "count": "3",
             "showImages": false,
             "showName": true,
             "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/girl-abstract-dress-canvas-paint-hand-brush-77231-1920x1080-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/helen-2000x2000.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "showTitle": true,
             "showSubtitle": false
@@ -2022,7 +2039,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#fff3c2",
+            "bgColor": "#6aafd2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2053,7 +2070,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff9de",
+            "bgColor": "#c8dce7",
             "showMeta": false
           },
           "title": "",
@@ -2070,7 +2087,7 @@
             ".lead P": {
               "text-align": "left",
               "color": "#000000",
-              "font-size": "16px",
+              "font-size": "17px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -2081,8 +2098,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1b",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20160709-2000x1205.jpg",
@@ -2213,7 +2230,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#ebe5cb",
+            "bgColor": "#b0c9d6",
             "showMeta": false
           },
           "title": "",
@@ -2240,7 +2257,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#fff3c2",
+            "bgColor": "#a7d3ea",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -2275,7 +2292,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff3c2",
+            "bgColor": "#a7d3ea",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -2466,7 +2483,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#fdf4cb",
+            "bgColor": "#90b2d9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2532,7 +2549,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
+            "bgColor": "#90b2d9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2546,7 +2563,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.instagram.com/?hl=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Log Into Instagram</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/?hl=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Log Into Instagram</a>",
           "text": "You can follow me on Instagram at my username",
           "title": "PhoenixDragon_SunShine1222"
         },
@@ -2567,7 +2584,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#fdf4cb",
+            "bgColor": "#90b2d9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2723,7 +2740,7 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#000000"
             },
             ".mbr-section-text": {
               "color": "#565656"
@@ -2739,7 +2756,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "bgColor": "#fdf4cb",
+            "bgColor": "#508bcf",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2795,7 +2812,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fdf4cb",
+            "bgColor": "#508bcf",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2851,7 +2868,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "bgColor": "#fdf4cb",
+            "bgColor": "#508bcf",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
