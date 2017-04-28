@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Premiere.html",
+    "currentPage": "Illustrator.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -639,6 +639,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/helen-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/helen-2000x2000.png",
+                "caption": "Helen Pye",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gun-violence-psa-esv-2000x1192-800x476.png",
+                "image": "@PROJECT_PATH@/assets/images/gun-violence-psa-esv-2000x1192.png",
                 "caption": "Helen Pye",
                 "active": true
               }
