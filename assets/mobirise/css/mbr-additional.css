@@ -457,13 +457,13 @@ h6,
 #menu-1m .nav-dropdown-sm .link:hover,
 #menu-1m .nav-dropdown-sm .dropdown-item:focus,
 #menu-1m .nav-dropdown-sm .dropdown-item:hover {
-  background: #020024!important;
+  background: #000722!important;
 }
 #menu-1m .navbar,
 #menu-1m .nav-dropdown-sm,
 #menu-1m .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1m .nav-dropdown-sm .dropdown-menu {
-  background: #030033;
+  background: #000a31;
 }
 #menu-1m .bg-color.transparent .link {
   color: #ffffff;
@@ -494,7 +494,7 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #header1-8 .mbr-section-title {
-  color: #2b0680;
+  color: #001c60;
   font-family: 'Raleway', sans-serif;
   font-size: 72px;
 }
@@ -520,7 +520,7 @@ h6,
   color: #fff;
 }
 #msg-box8-3e .mbr-section-title {
-  color: #0f0060;
+  color: #001c60;
 }
 #social-buttons2-2z .mbr-section-title,
 #social-buttons2-2z .btn-social {
@@ -528,7 +528,7 @@ h6,
 }
 #social-buttons2-2z .mbr-section-title {
   font-family: 'Raleway', sans-serif;
-  color: #2b0680;
+  color: #001c60;
 }
 #msg-box3-3n .mbr-section-title,
 #msg-box3-3n p {

@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 136,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "path": "file:///D:/Sophmore%20Year/Tech%20Production/Other%20Projects/Portfolio",
     "screenshot": "screenshot.png"
   },
@@ -69,10 +70,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#020024!important"
+              "background": "#000722!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#030033"
+              "background": "#000a31"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -108,7 +109,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#030033",
+            "bgColor": "#000a31",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -150,7 +151,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#2b0680",
+              "color": "#001c60",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "72px"
@@ -221,7 +222,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#0f0060"
+              "color": "#001c60"
             }
           },
           "_tags": [
@@ -343,7 +344,7 @@
             ".mbr-section-title": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#2b0680"
+              "color": "#001c60"
             }
           },
           "_tags": [
