@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 136,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "path": "file:///D:/Sophmore%20Year/Tech%20Production/Other%20Projects/Portfolio",
     "screenshot": "screenshot.png"
   },
@@ -70,10 +69,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000722!important"
+              "background": "#220900!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000a31"
+              "background": "#310d00"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -109,7 +108,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#000a31",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -162,10 +161,10 @@
           },
           "_anchor": "header1-8",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sunset-house-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20170622-162311crop-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -176,7 +175,7 @@
             "overlayOpacity": "0.2",
             "overlayColor": "#cadef3",
             "contentAlign": "right",
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButtons": false
           },
@@ -210,7 +209,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#cadef3",
+            "bgColor": "#dad9d2",
             "showMeta": true
           },
           "title": "",
@@ -231,11 +230,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3e",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/starry-night-repro-9-final-esv-2000x1428.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/red-phoenix-emblem-01-crop-2000x1096.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -244,7 +243,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.5",
-            "overlayColor": "#cadef3",
+            "overlayColor": "#dad9d2",
             "showTitle": true,
             "showText": false,
             "showButton": true
@@ -268,8 +267,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/helen-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/helen-1-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -278,8 +277,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160919-2000x1443-800x577.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160919-2000x1443.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170722-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -288,8 +287,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170721-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170721-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -298,8 +297,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170123-174100-1-crop-2000x2556-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170123-174100-1-crop-2000x2556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alice-the-angel-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/alice-the-angel-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -308,26 +307,26 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/snapchat-430274124-crop-2000x1097-800x438.jpg",
-                "image": "@PROJECT_PATH@/assets/images/snapchat-430274124-crop-2000x1097.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170712-172254crop-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170712-172254crop-2000x1499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160919-191920crop-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160919-191920crop-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/red-phoenix-emblem-01-crop-2000x1096-800x438.jpg",
-                "image": "@PROJECT_PATH@/assets/images/red-phoenix-emblem-01-crop-2000x1096.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -358,7 +357,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -385,7 +384,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -416,7 +415,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -503,7 +502,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#030033",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -817,7 +816,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -904,7 +903,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#030033",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -1193,7 +1192,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1280,7 +1279,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#030033",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -1340,7 +1339,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557-800x1022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x25574.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-13-17-2000x2557.jpg",
                 "caption": "Anime Portrait: ESV",
                 "active": false
               },
@@ -1390,8 +1389,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442-800x576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x14425.jpg",
-                "caption": "Wild SunShine (Wolf of Art)",
+                "image": "@PROJECT_PATH@/assets/images/20161211-230112-2000x1442.jpg",
+                "caption": "Wild (Wolf of Art)",
                 "active": false
               },
               {
@@ -1413,6 +1412,16 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20161123-2000x1929.jpg",
                 "caption": "Portrait: <i>Sammy</i>",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170813-2000x2704-800x1081.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170813-2000x2704.jpg",
+                "caption": "\"The Lonely\" song by Christina Perri",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1502,7 +1511,47 @@
                 "thumb": "@PROJECT_PATH@/assets/images/helenxnova-2000x2445-800x978.jpg",
                 "image": "@PROJECT_PATH@/assets/images/helenxnova-2000x2445.jpg",
                 "caption": "Helen and Nova Wedding Dance",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170622-162311crop-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170622-162311crop-2000x1500.jpg",
+                "caption": "SunShine Abstract",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170722-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170722-2000x1500.jpg",
+                "caption": "Spirit of Art: Wild",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170721-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170721-2000x1500.jpg",
+                "caption": "Spirit of Art: Hurricane",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170809-2000x1344-800x537.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170809-2000x1344.jpg",
+                "caption": "Dark Wolf",
+                "active": false
               }
             ],
             "spacing": "0",
@@ -1629,7 +1678,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1716,7 +1765,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#030033",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -1945,7 +1994,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2032,7 +2081,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#030033",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -2089,7 +2138,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2120,7 +2169,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#e0f4ff",
+            "bgColor": "#e7e7e3",
             "showMeta": false
           },
           "title": "",
@@ -2263,7 +2312,7 @@
             "showButtons": false
           },
           "title": "Goals~",
-          "text": "<span style=\"line-height: 1.5;\">~Publish my first novel, starting my original series of fictional books, and become a brilliant author, illustrating my book covers and character art as a hobby.</span><br><span style=\"line-height: 1.5;\"><br></span>~Grow to become a successful illustrator and work at an animation studio, designing characters and creating storyboards for future productions, and writing books and stories as a hobby.<br><br>~Community Service Project: Personalized comic books for kids.<br><br>~Polish my skills as a henna artist and possibly start my own business doing henna art for clients, and illustrate and write as hobbies.<br>",
+          "text": "~Grow to become a successful illustrator and work at an animation studio, designing characters and creating storyboards for future productions, and writing books and stories as a hobby.<span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\">~Publish my first novel, starting my original series of fictional books, and become a brilliant author, illustrating my book covers and character art as a hobby.</span><br><br>~Community Service Project: Personalized comic books for kids.<br><br>~Polish my skills as a henna artist and possibly start my own business doing henna art for clients, and illustrate and write as hobbies.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -2280,7 +2329,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#b0c9d6",
+            "bgColor": "#d1d0c9",
             "showMeta": false
           },
           "title": "",
@@ -2307,7 +2356,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -2342,7 +2391,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -2395,7 +2444,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2481,7 +2530,7 @@
           "_name": "menu",
           "_anchor": "menu-1m",
           "_params": {
-            "bgColor": "#030033",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -2533,7 +2582,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2564,7 +2613,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2599,7 +2648,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2634,7 +2683,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2729,7 +2778,7 @@
           "_name": "menu",
           "_anchor": "menu-3a",
           "_params": {
-            "bgColor": "#030033",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -2778,7 +2827,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2853,13 +2902,23 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Award Segment Title for Multimedia Night",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/NbqlaMMB33Y",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-16-18-03-43.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Skin Deep ESV",
                 "active": true
               }
             ],
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#cadef3",
+            "bgColor": "#ddcaf3",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -2946,7 +3005,7 @@
           "_name": "menu",
           "_anchor": "menu-3o",
           "_params": {
-            "bgColor": "#1e1e1e",
+            "bgColor": "#310d00",
             "fontSize": 0.75,
             "fontName": {
               "name": "Raleway",
@@ -2995,7 +3054,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3029,7 +3088,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cadef3",
+            "bgColor": "#ece9d2",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,

@@ -457,13 +457,13 @@ h6,
 #menu-1m .nav-dropdown-sm .link:hover,
 #menu-1m .nav-dropdown-sm .dropdown-item:focus,
 #menu-1m .nav-dropdown-sm .dropdown-item:hover {
-  background: #000722!important;
+  background: #220900!important;
 }
 #menu-1m .navbar,
 #menu-1m .nav-dropdown-sm,
 #menu-1m .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1m .nav-dropdown-sm .dropdown-menu {
-  background: #000a31;
+  background: #310d00;
 }
 #menu-1m .bg-color.transparent .link {
   color: #ffffff;
